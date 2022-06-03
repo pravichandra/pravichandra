@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pravichandra
-- 👀 I’m interested in data science projects
+- 👋 Hi, I’m @pravichandra working as data science consultant
+- 👀 I’m interested in data science projects 
 - 🌱 I’m currently learning applied machine learning & deeplearning techniques on real world problems.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me pethakamsettyravichandra@gmail.com
